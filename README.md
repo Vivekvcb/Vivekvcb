@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Data Analyst | Taylor & Franchise</h3>
+<h3 align="center">Data Analyst | Taylor & Francis</h3>
 
 <p align="center">
   SQL • Power BI • Excel • Python
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 I am a Data Analyst with hands-on experience in analyzing, cleaning, and visualizing data to support business decisions.  
-Currently working at *Taylor & Franchise*, I enjoy transforming raw data into meaningful insights using analytical thinking and structured workflows.
+Currently working at *Taylor & Francis*, I enjoy transforming raw data into meaningful insights using analytical thinking and structured workflows.
 
 I focus on:
 - Writing efficient SQL queries  
